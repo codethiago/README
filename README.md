@@ -14,8 +14,8 @@
 
 ## Git Marks and Status
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codethiago&show_icons=true&locale=en&layout=compact" alt="mata-l" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codethiago&show_icons=true&locale=en&layout=compact" alt="codethiago" /></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codethiago&show_icons=true&locale=en" alt="mata-l" /></p>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codethiago&show_icons=true&locale=en" alt="codethiago" /></p>  
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codethiago&" alt="mata-l" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codethiago&" alt="codethiago" /></p>
