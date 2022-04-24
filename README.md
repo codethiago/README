@@ -1,6 +1,6 @@
 # Hello there, I'm Thiago Brandão aka codethiago
 
-- 💻 I’ve been studing on Kenzie Academy Brasil
+- 💻 I’ve been studing on <a href="https://github.com/Kenzie-Academy-Brasil-Developers"> Kenzie Academy Brasil </a>
 - 🎨 I’m currently mastering **JavaScript, React** skills
 - 📫 Reach me at **thiago.oliveira_@outlook.com**
 - 🔭 2022 goal is **Getting an opportunity of work coding**
